@@ -1,7 +1,7 @@
 import React from 'react';
 import { TechBackground } from './TechBackground';
 import { OracleGlobe } from './OracleGlobe';
-import { PrivateSalePanel } from './PrivateSalePanel';
+import PrivateSalePanel from "./PrivateSalePanel";
 import { CFG } from '@/utils/constants';
 
 export default function RSUI32() {
